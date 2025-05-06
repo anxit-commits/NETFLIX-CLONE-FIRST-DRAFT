@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url("help/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-pre\ \(1\).jpg");
+height: 80vh;
+position: relative;
+background-position: center center;
+background-size: 100vw;
+background-repeat: no-repeat;
+}
+.main .box{
+    height: 80vh;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    
+    
+
+}
+nav{
+    max-width: 80vw;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
